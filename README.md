@@ -1,1 +1,1 @@
-# collaborative_ontology_fv
+# collaborative ontology functional validation
